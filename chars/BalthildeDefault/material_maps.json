@@ -1,0 +1,27 @@
+{
+  "defaultPreset": "lobby",
+  "c_Balthilde_slg_face_d.png": {
+    "normal": "maps/c_Balthilde_slg_face_d_n.png"
+  },
+  "c_Balthilde_slg_eye_d.png": {
+    "normal": "maps/c_Balthilde_slg_eye_d_n.png"
+  },
+  "c_Balthilde_slg_eyeblend_d.png": {
+    "normal": "maps/c_Balthilde_slg_eyeblend_d_n.png"
+  },
+  "c_BalthildeSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_BalthildeSSR01_slg_cloth2_d_n.png"
+  },
+  "c_BalthildeSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_BalthildeSSR01_slg_cloth1_d_n.png"
+  },
+  "c_Balthilde_slg_hair_d.png": {
+    "normal": "maps/c_Balthilde_slg_hair_d_n.png"
+  },
+  "c_BalthildeSSR01_slg_Goggles_da.png": {
+    "normal": "maps/c_BalthildeSSR01_slg_Goggles_da_n.png"
+  },
+  "extra.png": {
+    "normal": "maps/extra_n.png"
+  }
+}

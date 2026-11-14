@@ -1,0 +1,40 @@
+{
+  "defaultPreset": "lobby",
+  "c_AgentSSR01_slg_body_d.png": {
+    "normal": "maps/c_AgentSSR01_slg_body_d_n.png"
+  },
+  "c_AgentSSR01_slg_cloth3_d.png": {
+    "normal": "maps/c_AgentSSR01_slg_cloth3_d_n.png"
+  },
+  "c_AgentSSR01_slg_cloth2_da.png": {
+    "normal": "maps/c_AgentSSR01_slg_cloth2_da_n.png"
+  },
+  "c_AgentSSR01_slg_cloth5_d.png": {
+    "normal": "maps/c_AgentSSR01_slg_cloth5_d_n.png"
+  },
+  "c_AgentSSR01_slg_cloth7_da.png": {
+    "normal": "maps/c_AgentSSR01_slg_cloth7_da_n.png"
+  },
+  "c_AgentSSR01_slg_cloth1_da.png": {
+    "normal": "maps/c_AgentSSR01_slg_cloth1_da_n.png"
+  },
+  "c_AgentSSR01_slg_cloth6_da.png": {
+    "normal": "maps/c_AgentSSR01_slg_cloth6_da_n.png"
+  },
+  "c_AgentSSR01_slg_cloth4_da.png": {
+    "normal": "maps/c_AgentSSR01_slg_cloth4_da_n.png"
+  },
+  "c_AgentSSR01_slg_cloth8_da.png": {
+    "normal": "maps/c_AgentSSR01_slg_cloth8_da_n.png"
+  },
+  "c_AgentSSR01_slg_hair_d.png": {
+    "normal": "maps/c_AgentSSR01_slg_hair_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cth1-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

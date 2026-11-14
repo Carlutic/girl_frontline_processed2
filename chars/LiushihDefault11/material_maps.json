@@ -1,0 +1,30 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_LiushihSSR01_slg_cloth2_da.png": {
+    "normal": "maps/c_LiushihSSR01_slg_cloth2_da_n.png"
+  },
+  "c_LiushihSSR01_slg_cloth1_da.png": {
+    "normal": "maps/c_LiushihSSR01_slg_cloth1_da_n.png"
+  },
+  "c_LiushihSSR01_slg_hair_d.png": {
+    "normal": "maps/c_LiushihSSR01_slg_hair_d_n.png"
+  },
+  "c_LiushihSSR01_slg_cloth6_d.png": {
+    "normal": "maps/c_LiushihSSR01_slg_cloth6_d_n.png"
+  },
+  "c_LiushihSSR01_slg_cloth3_d.png": {
+    "normal": "maps/c_LiushihSSR01_slg_cloth3_d_n.png"
+  },
+  "c_liushihssr01_slg_cloth4_da.png": {
+    "normal": "maps/c_liushihssr01_slg_cloth4_da_n.png"
+  },
+  "c_LiushihSSR01_slg_cloth5_da.png": {
+    "normal": "maps/c_LiushihSSR01_slg_cloth5_da_n.png"
+  },
+  "c_liushihssr01_slg_pearl_da.png": {
+    "normal": "maps/c_liushihssr01_slg_pearl_da_n.png"
+  }
+}

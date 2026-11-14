@@ -1,0 +1,27 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "body_zhijia01_da.png": {
+    "normal": "maps/body_zhijia01_da_n.png"
+  },
+  "c_SpringfieldSSR0103_slg_P1_cloth1_da.png": {
+    "normal": "maps/c_SpringfieldSSR0103_slg_P1_cloth1_da_n.png"
+  },
+  "c_SpringfieldSSR0103_slg_P1_body1_da.png": {
+    "normal": "maps/c_SpringfieldSSR0103_slg_P1_body1_da_n.png"
+  },
+  "c_SpringfieldSSR0103_slg_P1_head1_da.png": {
+    "normal": "maps/c_SpringfieldSSR0103_slg_P1_head1_da_n.png"
+  },
+  "c_SpringfieldSSR0103_slg_P1_head2_da.png": {
+    "normal": "maps/c_SpringfieldSSR0103_slg_P1_head2_da_n.png"
+  },
+  "c_SpringfieldSSR0103_slg_cloth1_d.png": {
+    "normal": "maps/c_SpringfieldSSR0103_slg_cloth1_d_n.png"
+  },
+  "c_SpringfieldSSR0103_slg_hair_d.png": {
+    "normal": "maps/c_SpringfieldSSR0103_slg_hair_d_n.png"
+  }
+}

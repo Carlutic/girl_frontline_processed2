@@ -1,0 +1,24 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_ColphneDoppelgaengerSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_ColphneDoppelgaengerSSR01_slg_cloth1_d_n.png"
+  },
+  "c_ColphneDoppelgaengerSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_ColphneDoppelgaengerSSR01_slg_cloth2_d_n.png"
+  },
+  "c_ColphneDoppelgaengerSSR01_slg_cloth4_d.png": {
+    "normal": "maps/c_ColphneDoppelgaengerSSR01_slg_cloth4_d_n.png"
+  },
+  "c_ColphneDoppelgaengerSSR01_slg_cloth3_da.png": {
+    "normal": "maps/c_ColphneDoppelgaengerSSR01_slg_cloth3_da_n.png"
+  },
+  "c_ColphneDoppelgaengerSSR01_slg_cloth5_d.png": {
+    "normal": "maps/c_ColphneDoppelgaengerSSR01_slg_cloth5_d_n.png"
+  },
+  "c_Colphne_hair_d.png": {
+    "normal": "maps/c_Colphne_hair_d_n.png"
+  }
+}
